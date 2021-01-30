@@ -19,7 +19,7 @@ Things you may want to cover:
 
 # How to run the test suite
   ```ruby
-    rspec
+  rspec
   ```
 
 * Test Case Coverage
@@ -30,8 +30,14 @@ Things you may want to cover:
 
 # Run App
   ```ruby
-    rails server
+  rails server
   ```
+
+# Routes
+  ```ruby
+  rake routes
+  ```
+  
 
 # A Look at Gemfile
   - kaminari for pagination
