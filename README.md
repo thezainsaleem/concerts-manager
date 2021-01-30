@@ -38,10 +38,4 @@ Things you may want to cover:
   - simplecov for test case coverage
   - rspec-rails for Test Driven Development
 
-* Deployment instructions
-  None [Local Project]
-
-* Dependencies/Limitations
-  Only serves json
-
 
