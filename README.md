@@ -41,29 +41,29 @@ Things you may want to cover:
   Following REST conventions
 
   ### Locality
-  /api/v1/concerts
-  GET /       => :index
-  GET /:id    => :show
-  POST /      => :create
-  PATCH /:id  => :update
-  DELETE /:id => :destroy
+  - /api/v1/concerts
+  - GET /       => :index
+  - GET /:id    => :show
+  - POST /      => :create
+  - PATCH /:id  => :update
+  - DELETE /:id => :destroy
 
   
   ### Artist
-  /api/v1/concerts
-  GET /       => :index
-  GET /:id    => :show
-  POST /      => :create
-  PATCH /:id  => :update
-  DELETE /:id => :destroy
+  - /api/v1/concerts
+  - GET /       => :index
+  - GET /:id    => :show
+  - POST /      => :create
+  - PATCH /:id  => :update
+  - DELETE /:id => :destroy
 
   ### Concert
-  /api/v1/concerts
-  GET /       => :index
-  GET /:id    => :show
-  POST /      => :create
-  PATCH /:id  => :update
-  DELETE /:id => :destroy
+  - /api/v1/concerts
+  - GET /       => :index
+  - GET /:id    => :show
+  - POST /      => :create
+  - PATCH /:id  => :update
+  - DELETE /:id => :destroy
 
 # A Look at Gemfile
   - kaminari for pagination
